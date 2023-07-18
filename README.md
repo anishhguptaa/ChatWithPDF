@@ -6,4 +6,4 @@
 
 3.) Run the model.py file first. It will download the huggingface model beforehand, so that the streamlit connection does not get interrupted.
 
-4.) Run the app.py file using `streamlit run app.py'.
+4.) Run the app.py file using `streamlit run app.py`.
