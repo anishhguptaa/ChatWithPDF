@@ -8,4 +8,4 @@
 
 4.) Run the app.py file using `streamlit run app.py`.
 
-*~This project uses free huggingface models which run locally on the machine. You can also use the paid but significantly faster OpenAI option.~*
+*This project uses free huggingface models which run locally on the machine. You can also use the paid but significantly faster OpenAI option.*
