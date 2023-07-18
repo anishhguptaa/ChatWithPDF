@@ -7,3 +7,5 @@
 3.) Run the model.py file first. It will download the huggingface model beforehand, so that the streamlit connection does not get interrupted.
 
 4.) Run the app.py file using `streamlit run app.py`.
+
+*~This project uses free huggingface models which run locally on the machine. You can also use the paid but significantly faster OpenAI option.~*
